@@ -1,0 +1,8 @@
+prefix=/home/fb/SLAM/OrbDenseSurfelMapping/kitti_publisher/install
+
+Name: kitti_publisher
+Description: Description of kitti_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fb/SLAM/OrbDenseSurfelMapping/kitti_publisher/install/lib 
+Requires: 

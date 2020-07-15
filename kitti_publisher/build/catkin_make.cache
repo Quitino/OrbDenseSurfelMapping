@@ -1,0 +1,2 @@
+KITTI
+-DCATKIN_DEVEL_PREFIX=/home/fb/SLAM/OrbDenseSurfelMapping/kitti_publisher/devel -DCMAKE_INSTALL_PREFIX=/home/fb/SLAM/OrbDenseSurfelMapping/kitti_publisher/install -G Unix Makefiles

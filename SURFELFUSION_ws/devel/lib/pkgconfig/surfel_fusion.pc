@@ -1,0 +1,8 @@
+prefix=/home/fb/SLAM/OrbDenseSurfelMapping/SURFELFUSION_ws/devel
+
+Name: surfel_fusion
+Description: Description of surfel_fusion
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/fb/SLAM/OrbDenseSurfelMapping/SURFELFUSION_ws/devel/lib 
+Requires: 

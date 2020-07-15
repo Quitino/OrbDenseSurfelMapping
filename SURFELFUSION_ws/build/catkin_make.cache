@@ -1,0 +1,2 @@
+surfel_fusion
+-DCATKIN_DEVEL_PREFIX=/home/fb/SLAM/OrbDenseSurfelMapping/SURFELFUSION_ws/devel -DCMAKE_INSTALL_PREFIX=/home/fb/SLAM/OrbDenseSurfelMapping/SURFELFUSION_ws/install -G Unix Makefiles
